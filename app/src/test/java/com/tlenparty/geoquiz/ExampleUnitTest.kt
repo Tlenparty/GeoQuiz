@@ -1,4 +1,4 @@
-package com.geekbrains.geoquiz
+package com.tlenparty.geoquiz
 
 import org.junit.Test
 

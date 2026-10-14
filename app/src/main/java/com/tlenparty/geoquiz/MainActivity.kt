@@ -1,4 +1,4 @@
-package com.geekbrains.geoquiz
+package com.tlenparty.geoquiz
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
